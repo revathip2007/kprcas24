@@ -1,0 +1,24 @@
+ .line{
+         color: blueviolet;
+          background-color: bisque;
+      }
+      h1{
+         background-color: blueviolet;
+      }
+       .parent p{ color: chartreuse;
+       }
+    p:hover{
+        color: blueviolet;
+        background-color: darkblue;
+    }
+    .static{
+     position:relative    
+    }
+    .relative{
+        position:relative;
+        top: 70px;
+        left:60px;
+    }
+    .inline {
+        display:inline;
+    }
